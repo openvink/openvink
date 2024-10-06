@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @openvink
+- 👀 I’m interested in developing and contributing to the open source projects.
+- 🌱 I’m currently learning twitch streaming
+- 💞️ I’m looking to collaborate on anything open source
+- 📫 Reach me at my email address I mentioned in the profile
+- ⚡ Fun fact: I will do everything in open source and I will stream all my process.
